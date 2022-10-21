@@ -1,7 +1,7 @@
 - 👋 Hi, I’m sahbi chehaibi
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React js 
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in mobile and web development
+- 🌱 I’m currently learning Flutter 
+- 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me :sahbi.ch.dev@gmail.com
 
 <!---
